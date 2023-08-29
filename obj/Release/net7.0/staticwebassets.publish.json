@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "LvRXBR4UTPpKha7WvXJKH5CgGdx8nIPwOBhcAf56ndA=",
+  "Source": "ProjetoWeb_LH_Pets_Senai",
+  "BasePath": "_content/ProjetoWeb_LH_Pets_Senai",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoWeb_LH_Pets_Senai\\wwwroot",
+      "Source": "ProjetoWeb_LH_Pets_Senai",
+      "ContentRoot": "C:\\Users\\Pedro\\Downloads\\ProjetoWeb_LH_Pets_Senai\\wwwroot\\",
+      "BasePath": "_content/ProjetoWeb_LH_Pets_Senai",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Pedro\\Downloads\\ProjetoWeb_LH_Pets_Senai\\wwwroot\\index.html",
+      "SourceId": "ProjetoWeb_LH_Pets_Senai",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pedro\\Downloads\\ProjetoWeb_LH_Pets_Senai\\wwwroot\\",
+      "BasePath": "_content/ProjetoWeb_LH_Pets_Senai",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProjetoWeb_LH_Pets_Senai.props" />
+</Project>
